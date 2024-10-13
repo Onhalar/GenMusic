@@ -1,1 +1,1 @@
-# GenMusic
+Just your regular simple music player
